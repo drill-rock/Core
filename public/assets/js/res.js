@@ -1,7 +1,8 @@
 const res = [
     "/assets/sprites/arena1.bmp",
     "/assets/sprites/arena2.png",
-    "/assets/sprites/hexa.png"
+    "/assets/sprites/hexa.png",
+    "/assets/sprites/hexa_over.png"
 ];
 
 function loadRes(ready){
